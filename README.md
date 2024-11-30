@@ -1,4 +1,5 @@
-                                                                                                                    Sistema de Treinamento - Instituto Alpha
+Sistema de Treinamento - Instituto Alpha
+
 📖 Descrição
 
 O Sistema de Treinamento do Instituto Alpha é uma aplicação web desenvolvida para facilitar o treinamento dos colaboradores no uso do sistema de gestão clínica. A plataforma organiza vídeos explicativos por setores, permitindo que os usuários aprendam de forma direcionada e prática como utilizar cada funcionalidade do sistema.
