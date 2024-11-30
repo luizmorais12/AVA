@@ -1,11 +1,15 @@
-Sistema de Treinamento - Instituto Alpha
-Descrição
+                                                                                                                    Sistema de Treinamento - Instituto Alpha
+📖 Descrição
+
 O Sistema de Treinamento do Instituto Alpha é uma aplicação web desenvolvida para facilitar o treinamento dos colaboradores no uso do sistema de gestão clínica. A plataforma organiza vídeos explicativos por setores, permitindo que os usuários aprendam de forma direcionada e prática como utilizar cada funcionalidade do sistema.
 
+Desenvolvido utilizando HTML, CSS, Bootstrap e JavaScript, o sistema oferece uma interface amigável e intuitiva para acesso aos materiais de treinamento.
 Desenvolvido com HTML, CSS, Bootstrap e JavaScript, o sistema oferece uma interface amigável e intuitiva para acesso aos materiais de treinamento.
 
-Funcionalidades
-Organização por Setores: Os vídeos estão agrupados de acordo com os setores, como:
+✨ Funcionalidades
+Organização por Setores
+Os vídeos estão agrupados de acordo com os setores:
+
 Recepção
 Triagem
 Médico Clínico
@@ -14,12 +18,21 @@ Emergência
 Medicação Infantil
 Observação
 Suporte
+
+Outros Recursos
+
 Vídeos de Treinamento: Cada setor possui um conjunto de vídeos explicativos detalhando como utilizar o sistema.
 Design Responsivo: Interface adaptada para computadores, tablets e dispositivos móveis.
+Vídeos de Treinamento: Cada setor possui um conjunto de vídeos explicativos detalhando como utilizar o sistema.
+Design Responsivo: Interface adaptada para computadores, tablets e dispositivos móveis.
+
+
 Tecnologias Utilizadas
+
 HTML: Estruturação das páginas.
 CSS e Bootstrap: Para estilização e design responsivo.
 JavaScript: Para navegação dinâmica entre os módulos.
+
 Interface do Sistema
 A interface é simples e funcional, com um menu lateral para navegação entre os setores e um painel principal onde os vídeos de treinamento são exibidos.
 
@@ -58,6 +71,7 @@ Estrutura do Projeto
 plaintext
 Copiar código
 sistema-treinamento/
+
 ├── index.html        # Página inicial
 ├── css/
 │   ├── style.css     # Estilos personalizados
@@ -71,7 +85,9 @@ sistema-treinamento/
 │   └── ...           # Outros setores
 ├── img/              # Imagens utilizadas no sistema
 └── README.md         # Documentação do projeto
+
 Melhorias Futuras
+
 Implementação de um sistema de login para restringir o acesso aos vídeos.
 Registro de progresso dos usuários nos treinamentos.
 Adição de quizzes interativos após cada módulo de treinamento.
